@@ -1,0 +1,32 @@
+_repo: Wake--First-25-000-words-_33374
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sawyer, Robert J.
+    alias: Sawyer, Robert J. (Robert James)
+    birthdate: 1960
+    gutenberg_agent_id: '36373'
+    url: http://www.gutenberg.org/2009/agents/36373
+    wikipedia: http://en.wikipedia.org/wiki/Robert_J._Sawyer
+description: Excerpt.
+gutenberg_issued: '2010-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33374'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'World Wide Web -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Implants, Artificial -- Fiction'
+- !lcsh 'Artificial intelligence -- Fiction'
+- !lcsh 'Blind women -- Fiction'
+- !lcsh 'Women mathematicians -- Fiction'
+title: Wake (First 25,000 words)
+url: http://www.gutenberg.org/ebooks/33374
